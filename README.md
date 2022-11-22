@@ -3,6 +3,7 @@
  - Tailwind-css
  - Redux Toolkit
  - SASS Modules (`.module.scss`)
+ - Eslint / Stylint configured
  
 
 #### Folder Structure:

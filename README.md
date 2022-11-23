@@ -1,3 +1,10 @@
+## Overview
+
+This is an extended version of React template from [Stellar Minore](https://stellarminore.com/) `Open-source Template`,
+If you are looking for more simplified version with folder structure and without RTK setup, Check them out here at https://bitbucket.org/stellar-minore/react-template
+
+## Details
+
 #### Initial template for projects that are running with:
  - React
  - Tailwind-css
